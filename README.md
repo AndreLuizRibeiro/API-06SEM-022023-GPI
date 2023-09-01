@@ -36,10 +36,8 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
-
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-6SEM-022023-GPI/blob/main/Sprint%201/imagem/equipe%206%20sem.jpg" width="50%"/>
 </p>
 
 # Objetivo do Projeto
@@ -52,7 +50,7 @@ Sprint | Previsão | Status| Histórico|
 >Colocar o vídeo da apresentação
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
 ## Sprint 2
@@ -60,7 +58,7 @@ Sprint | Previsão | Status| Histórico|
 >Colocar o vídeo da apresentação
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
 ## Sprint 3
@@ -68,7 +66,7 @@ Sprint | Previsão | Status| Histórico|
 >Colocar o vídeo da apresentação
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
 ## Sprint 4
@@ -76,7 +74,7 @@ Sprint | Previsão | Status| Histórico|
 >Colocar o vídeo da apresentação
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
 ## Apresentação final (se necessario)
@@ -84,7 +82,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 >Colocar o vídeo da apresentação
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/alinhamento.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
 ## Tecnologias Utilizadas
@@ -109,14 +107,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 >Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
 ## Burndown
 >Colocar aqui Burndown do projeto
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
 ## Sprint 1 - Concepção
