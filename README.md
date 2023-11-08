@@ -37,7 +37,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API-6SEM-022023-GPI/blob/main/Sprint%201/imagem/equipe%206%20sem.jpg" width="50%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-6SEM-022023-GPI/blob/main/Sprint%201/documento/grupo.png" width="100%"/>
 </p>
 
 # Objetivo do Projeto
