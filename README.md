@@ -45,9 +45,13 @@ Apresentar de forma clara e acessível os indicadores de manutenção relevantes
 
 # Funcionalidades e Demonstrações das Sprints
 
-## Sprint 1
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+## Kick-off
+Apresentação do problema;
+Alinhamento do cronograma das entegas;
+Responsabilidades de cada membro das equipes;
+Principais expectativas do cliente;
+Definição dos canais de comunicação;
+Definição da metodologia do projeto.
 
 <p align="center">
  <img src="" width="100%"/>
