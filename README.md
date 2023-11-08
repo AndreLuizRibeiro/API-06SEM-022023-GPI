@@ -21,8 +21,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório]() | 
-|01 | dd/mm/aaaa | concluido| [Ver Relatório]() | 
+|Kick Off | 25/10/2023 | concluido| [Ver Relatório]() | 
+|01 | 06/12/2023 | prevista| [Ver Relatório]() | 
 |02|  dd/mm/aaaa| em progresso |[Ver Relatório]() | 
 |03| dd/mm/aaaa | a fazer|[Ver Relatório]() | 
 |04| dd/mm/aaaa |a fazer |[Ver Relatório]() |
@@ -41,7 +41,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+Apresentar de forma clara e acessível os indicadores de manutenção relevantes para a equipe de operações propondo soluções que auxiliem na resolução do problema.
 
 # Funcionalidades e Demonstrações das Sprints
 
