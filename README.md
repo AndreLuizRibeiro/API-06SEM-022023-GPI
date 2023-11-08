@@ -26,7 +26,7 @@ Sprint | Previsão | Status| Histórico|
 |02|  dd/mm/aaaa| em progresso |[Ver Relatório]() | 
 |03| dd/mm/aaaa | a fazer|[Ver Relatório]() | 
 |04| dd/mm/aaaa |a fazer |[Ver Relatório]() |
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório]() | 
+|Feira de Soluções|01/12/2023 |a fazer |[Ver Relatório]() | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
