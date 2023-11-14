@@ -15,16 +15,14 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+Este semestre estamos prestando consultoria a uma empresa que produz embalagens em alumínio, auxiliando na melhoria das linhas de produção da empresa 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 25/10/2023 | concluido| [Ver Relatório]() | 
 |01 | 06/12/2023 | prevista| [Ver Relatório]() | 
-|02|  dd/mm/aaaa| em progresso |[Ver Relatório]() | 
-|03| dd/mm/aaaa | a fazer|[Ver Relatório]() | 
+|02|  dd/mm/aaaa| cancelada |[Ver Relatório]() | 
+|03| dd/mm/aaaa | cancelada |[Ver Relatório]() | 
 |04| dd/mm/aaaa |a fazer |[Ver Relatório]() |
 |Feira de Soluções|01/12/2023 |a fazer |[Ver Relatório]() | 
 
