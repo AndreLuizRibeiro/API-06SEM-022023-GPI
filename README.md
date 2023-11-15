@@ -21,12 +21,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 25/10/2023 | concluido| [Ver Relatório]() | 
 |01 | 06/12/2023 | prevista| [Ver Relatório]() | 
-|02|  dd/mm/aaaa| cancelada |[Ver Relatório]() | 
-|03| dd/mm/aaaa | cancelada |[Ver Relatório]() | 
-|04| dd/mm/aaaa |a fazer |[Ver Relatório]() |
 |Feira de Soluções|01/12/2023 |a fazer |[Ver Relatório]() | 
-
-> Possíveis status: a fazer, em progresso e concluido
 
 # Micro Certificações
 <p align="center">
@@ -43,53 +38,17 @@ Apresentar de forma clara e acessível os indicadores de manutenção relevantes
 
 # Funcionalidades e Demonstrações das Sprints
 
-## Kick-off
-* Apresentação do problema;
-* Alinhamento do cronograma das entegas;
-* Responsabilidades de cada membro das equipes;
-* Principais expectativas do cliente;
-* Definição dos canais de comunicação;
-* Definição da metodologia do projeto.
+## Sprint 1
 
-<p align="center">
- <img src="" width="100%"/>
-</p>
-
-## Sprint 2
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="" width="100%"/>
-</p>
-
-## Sprint 3
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="" width="100%"/>
-</p>
-
-## Sprint 4
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
 ## Apresentação final (se necessario)
 Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+- Sprint 1
+  - KPI's
+  - Dashboard Power BI
 
 ### Tecnológias Específicas/Apoio
 > Liste aqui todas as tecnologias utilizadas para colcluir as entregas
@@ -119,18 +78,15 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  <img src="" width="100%"/>
 </p>
 
-## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-
-## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
-## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
-## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-
+## Sprint 1 
+[x] 
+[x]
+[x] 
+[x] 
+[x] 
+[x] 
+[x] 
+[X] 
 
 # Competências desenvolvidas
 > Descrever aqui as competências adquiridas e desenvolvidas pela equipe
