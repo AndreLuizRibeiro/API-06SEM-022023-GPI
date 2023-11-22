@@ -19,9 +19,9 @@ Este semestre estamos prestando consultoria a uma empresa que produz embalagens 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 25/10/2023 | concluido| [Ver Relatório]() | 
-|01 | 06/12/2023 | prevista| [Ver Relatório]() | 
-|Feira de Soluções|01/12/2023 |a fazer |[Ver Relatório]() | 
+|Kick Off | 25/10/2023 | Concluida | [Ver Relatório]() | 
+|Sprint 01 | 06/12/2023 | Em andamento | [Ver Relatório]() | 
+|Feira de Soluções| 12/12/2023 | A fazer |[Ver Relatório]() | 
 
 # Micro Certificações
 <p align="center">
