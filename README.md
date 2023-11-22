@@ -65,7 +65,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/9)
 
 
 ## Backlog do produto
@@ -94,31 +94,28 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| PowerPoint| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Brainstorm  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| KPI's  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Power BI| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Excel  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
 ## Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
- 
-Trata-se de um conjunto de habilidades emocionais que são necessárias desenvolver e que estão muito relacionadas ao comportamento humano.
-
-
-
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Comunicação eficaz  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+|Empatia  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Colaboração  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Capacidade de resolver problmemas  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Proatividade  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Análise crítica  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+|Gerenciamento de tempo| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
 
