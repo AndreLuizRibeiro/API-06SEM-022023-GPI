@@ -106,6 +106,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
+ 
+Trata-se de um conjunto de habilidades emocionais que são necessárias desenvolver e que estão muito relacionadas ao comportamento humano.
+
+
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
