@@ -1,39 +1,39 @@
-Taxa de Produção:
-Objetivo: Medir a quantidade de produtos ou unidades produzidas em um determinado período de tempo.
+(Taxa de Produção:
+Objetivo: Medir a quantidade de produtos ou unidades produzidas em um determinado período de tempo
 Componentes:
 •	Quantidade Produzida: Número total de produtos ou unidades fabricadas.
 •	Tempo de Referência: O período de tempo para o qual a taxa de produção está sendo calculada (por exemplo, por hora, turno, dia).
 Fórmula: 
-Taxa de Produção= Quantidade Produzida(velocidade real)/Tempo de Referência(período que as linhas funcionaram)
+Taxa de Produção= Quantidade Produzida(velocidade real)/Tempo de Referência(período que as linhas funcionaram))andre
 ----------------------------------------------------------------------------------------------------------------------------
-Qualidade do Produto:
+(Qualidade do Produto:
 Objetivo: Avaliar a conformidade dos produtos fabricados com os padrões de qualidade estabelecidos.
 Componentes:
 •	Defeitos ou Não Conformidades: Número total de produtos defeituosos ou não conformes.
 •	Total de Produtos Inspecionados: Número total de produtos verificados ou inspecionados.
 Fórmulas: 
-Taxa de Defeitos= Defeitos ou Nao Conformidades(defeitos PPM)/Total de Produtos Inspecionados(Velocidade real) 
+Taxa de Defeitos= Defeitos ou Nao Conformidades(defeitos PPM)/Total de Produtos Inspecionados(Velocidade real))laysa
 ----------------------------------------------------------------------------------------------------------------------------
-Tempo Médio de Produção:
+(Tempo Médio de Produção:
 Objetivo: Medir o tempo médio necessário para produzir uma unidade do produto.
 Componentes:
 •	Tempo Total de Produção: Soma do tempo gasto na produção de todas as unidades.
 •	Número Total de Unidades Produzidas: Quantidade total de unidades produzidas.
 Fórmulas: 
-Tempo Médio de Produção= tempo Total de Produção(tempo total que cada maquina leva para produzir as peças)/número Total de Unidades Produzidas(velocidade real de cada maquina)
+Tempo Médio de Produção= tempo Total de Produção(tempo total que cada maquina leva para produzir as peças)/número Total de Unidades Produzidas(velocidade real de cada maquina))rosi
 ----------------------------------------------------------------------------------------------------------------------------
-Eficiência da Linha de Produção:
+(Eficiência da Linha de Produção:
 Objetivo: Medir a eficiência global da linha de produção, considerando o tempo de produção versus o tempo disponível.
 Componentes:
 •	Tempo de Produção Real: Tempo total que a linha de produção está realmente em operação.
 •	Tempo Disponível: O tempo total que a linha de produção deveria estar em operação, geralmente o tempo de trabalho padrão.
 Fórmula: 
-Eficiência=( Tempo de Produção Real(disponibilidade por maquina) /Tempo Disponível (tempo que as linhas funcionam por dia))×100%
+Eficiência=( Tempo de Produção Real(disponibilidade por maquina) /Tempo Disponível (tempo que as linhas funcionam por dia))×100%)andre
 ----------------------------------------------------------------------------------------------------------------------------
-Ocupação da Linha de Produção:
+(Ocupação da Linha de Produção:
 Objetivo: Medir a eficiência do uso da capacidade da linha de produção.
 Componentes:
 •	Tempo Total de Produção Ativo: Soma do tempo em que a linha de produção está ativa.
 •	Tempo Total Disponível: Tempo total durante o qual a linha de produção poderia estar operacional.
 Fórmulas: 
-Taxa de Ocupação= (Tempo Total de Produção Ativo(disponibilidade total da linha)/Tempo Total Disponível(tempo que a linha funcionou))×100
+Taxa de Ocupação= (Tempo Total de Produção Ativo(disponibilidade total da linha)/Tempo Total Disponível(tempo que a linha funcionou))×100) leticia
