@@ -22,18 +22,10 @@ Componentes:
 Fórmulas: 
 Tempo Médio de Produção= tempo Total de Produção(tempo total que cada maquina leva para produzir as peças)/número Total de Unidades Produzidas(velocidade real de cada maquina))rosi
 ----------------------------------------------------------------------------------------------------------------------------
-(Eficiência da Linha de Produção:
-Objetivo: Medir a eficiência global da linha de produção, considerando o tempo de produção versus o tempo disponível.
-Componentes:
-•	Tempo de Produção Real: Tempo total que a linha de produção está realmente em operação.
-•	Tempo Disponível: O tempo total que a linha de produção deveria estar em operação, geralmente o tempo de trabalho padrão.
-Fórmula: 
-Eficiência=( Tempo de Produção Real(disponibilidade por maquina) /Tempo Disponível (tempo que as linhas funcionam por dia))×100%)andre
-----------------------------------------------------------------------------------------------------------------------------
 (Ocupação da Linha de Produção:
 Objetivo: Medir a eficiência do uso da capacidade da linha de produção.
 Componentes:
 •	Tempo Total de Produção Ativo: Soma do tempo em que a linha de produção está ativa.
 •	Tempo Total Disponível: Tempo total durante o qual a linha de produção poderia estar operacional.
 Fórmulas: 
-Taxa de Ocupação= (Tempo Total de Produção Ativo(disponibilidade total da linha)/Tempo Total Disponível(tempo que a linha funcionou))×100) leticia
+Taxa de Ocupação= (Tempo Total de Produção Ativo(disponibilidade total da linha)/Tempo Total Disponível(tempo que a linha funcionou))×100)andre
