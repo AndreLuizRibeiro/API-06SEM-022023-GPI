@@ -95,9 +95,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | PowerPoint| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|Brainstorm  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Brainstorm  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | KPI's  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|Power BI| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Power BI| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Excel  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
@@ -106,16 +106,17 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
+ 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|Comunicação eficaz  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|Empatia  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|Colaboração  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|Capacidade de resolver problmemas  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|Proatividade  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|Análise crítica  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|Gerenciamento de tempo| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Comunicação eficaz  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Empatia  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Colaboração  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Capacidade de resolver problmemas  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Análise crítica  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gerenciamento de tempo| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
 
