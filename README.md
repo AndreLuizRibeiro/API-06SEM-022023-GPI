@@ -33,7 +33,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
-Apresentar de forma clara e acessível os indicadores de manutenção relevantes para a equipe de operações propondo soluções que auxiliem na resolução do problema.
+Apresentar de forma clara e acessível os indicadores de desempenho relevantes para a equipe de operações propondo soluções que auxiliem na resolução do problema.
 
 # Funcionalidades e Demonstrações das Sprints
 
