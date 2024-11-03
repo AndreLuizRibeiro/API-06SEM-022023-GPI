@@ -19,8 +19,8 @@ Este semestre estamos prestando consultoria a uma empresa que produz embalagens 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 25/10/2023 | Concluida | [Ver Relatório]() | 
-|Sprint 01 | 06/12/2023 | Em andamento | [Ver Relatório]() | 
-|Feira de Soluções| 12/12/2023 | A fazer |[Ver Relatório]() | 
+|Sprint 01 | 06/12/2023 | Concluida | [Ver Relatório]() | 
+|Feira de Soluções| 12/12/2023 | Concluida |[Ver Relatório]() | 
 
 # Micro Certificações
 <p align="center">
@@ -29,7 +29,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API-6SEM-022023-GPI/blob/main/Sprint%201/documento/grupo.png" width="100%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-06SEM-022023-GPI/blob/main/Sprint%201/documento/grupo.png" width="100%"/>
 </p>
 
 # Objetivo do Projeto
